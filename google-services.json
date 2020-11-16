@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72849436612",
+    "firebase_url": "https://gavasapp.firebaseio.com",
+    "project_id": "gavasapp",
+    "storage_bucket": "gavasapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72849436612:android:a426df124793e28caf3e91",
+        "android_client_info": {
+          "package_name": "com.animatwebservices.gavasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72849436612-m93uob9i7nmkpn6f1q1v0irj7cqltjqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4uVkE76R8McZgj-GodLgPsFmmu6Cl3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72849436612-m93uob9i7nmkpn6f1q1v0irj7cqltjqg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72849436612-7vd809j926e3gv4j38qf1vol82b2qqbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.animatwebservices.gavasapp",
+                "app_store_id": "1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
